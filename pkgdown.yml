@@ -1,0 +1,8 @@
+pandoc: 2.7.3
+pkgdown: 1.4.1.9000
+pkgdown_sha: 16231d9a2b2c47b6616ad32678917918b8621a62
+articles:
+  gettingstarted: gettingstarted.html
+  overview: overview.html
+last_built: 2020-03-24T19:16Z
+
